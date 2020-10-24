@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **simplycomputing/simplycomputing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Web hosting and design
+### Web dDesign and Hosting
 
-Currently involved in the developemnt of ClassicPress and Cklassic Commerce.
+Currently involved in the developemnt of ClassicPress (fork of WordPress) and Classic Commerce (fork of WooCommerce).
 
-Maintain classiccommerce.cc
+Maintainer of https://classiccommerce.cc
