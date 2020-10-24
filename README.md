@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Web hosting and design
+
+Currently involved in the developemnt of ClassicPress and Cklassic Commerce.
+
+Maintain classiccommerce.cc
