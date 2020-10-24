@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Web dDesign and Hosting
+### Web Design and Hosting
 
 Currently involved in the developemnt of ClassicPress (fork of WordPress) and Classic Commerce (fork of WooCommerce).
 
