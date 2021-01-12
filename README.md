@@ -15,6 +15,3 @@ Here are some ideas to get you started:
 
 ### Web Design and Hosting
 
-Currently involved in the developemnt of ClassicPress (fork of WordPress) and Classic Commerce (fork of WooCommerce).
-
-Maintainer of https://classiccommerce.cc
